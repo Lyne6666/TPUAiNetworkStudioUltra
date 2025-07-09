@@ -1,2 +1,1 @@
-# TPUAiNetworkStudioUltra
-Advanced TPUAiNetworkStudioUltra project
+.
